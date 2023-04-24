@@ -1,7 +1,7 @@
 # spring-microservices
 
 ![alt](/assets/img.jpg)
-<img src="/assets/img.jpg" width="200px" height="200px" align="center" alt="image">
+
 
 1. v1 microservices creation
 2. v2 eureka service registration
